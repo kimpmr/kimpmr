@@ -8,7 +8,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 object Kim {
  val acknowledgements = "Graduanda em Sistemas para Internet"
 
- val primarySkillset = "ALGUMAS HABILIDADES"
+ val primarySkillset = "Aprendendo..."
  val languages = listOf("HTML", "CSS", "JavaScript", "Portugol")
 
 }
