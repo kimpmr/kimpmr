@@ -31,7 +31,7 @@ object Kim {
 </a>
 
 [twitter]: https://twitter.com/_kimdim
-[instagram]: https://www.instagram.com/kimpmr/
+[instagram]: https://www.instagram.com/kimpmr_/
 [linkedin]: https://br.linkedin.com/in/kimberlly-porciuncula-maso-rodrigues-b947a9217
 
 <br>
