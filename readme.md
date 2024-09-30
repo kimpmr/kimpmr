@@ -30,7 +30,6 @@ object Kim {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kimpmr&show_icons=true&theme=dracula&line_height=27" alt="Kim github stats"/>
 </a>
 
-[twitter]: https://twitter.com/_kimdim
 [instagram]: https://www.instagram.com/kimpmr_/
 [linkedin]: https://br.linkedin.com/in/kimberlly-porciuncula-maso-rodrigues-b947a9217
 
@@ -38,6 +37,5 @@ object Kim {
 
 ## Rede sociais
 
-🐦 [Twitter][twitter] **|**
 📷 [Instagram][instagram] **|**
 👔 [LinkedIn][linkedin]
