@@ -8,7 +8,7 @@ object Kim {
  val acknowledgements = "Graduanda em Sistemas para Internet"
 
  val primarySkillset = "Aprendendo..."
- val languages = listOf("HTML", "CSS", "JavaScript", "Portugol")
+ val languages = listOf("HTML", "CSS", "JavaScript", "PHP")
 
 }
 ```
